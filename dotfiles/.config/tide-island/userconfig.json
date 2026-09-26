@@ -1,0 +1,29 @@
+{
+    "bodyFontSize": 15,
+    "clockFormat": "24",
+    "disableAutoExpandOnTrackChange": true,
+    "dynamicIslandLeftSwipeItems": [
+        "date",
+        "battery",
+        "cpu",
+        "ram",
+        "albumcover"
+    ],
+    "dynamicIslandMiddleAction": "toggleClipboard",
+    "dynamicIslandMiddleButton": 3,
+    "dynamicIslandPrimaryAction": "toggleExpandedPlayer",
+    "dynamicIslandPrimaryButton": 2,
+    "dynamicIslandSecondaryAction": "toggleControlCenter",
+    "dynamicIslandSecondaryButton": 1,
+    "hoverExpandAction": 0,
+    "iconFontSize": 18,
+    "islandAutoHideEnabled": false,
+    "islandBackgroundOpacity": 90,
+    "islandExclusiveZone": 13,
+    "islandHeight": 26,
+    "islandTopMargin": 3,
+    "islandWidth": 90,
+    "titleFontSize": 20,
+    "wallpaperLibraryPath": "/home/abhiz/Wallpapers",
+    "wallpaperPath": ""
+}

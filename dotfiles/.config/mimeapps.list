@@ -1,0 +1,11 @@
+[Added Associations]
+text/x-lua=code.desktop;
+application/x-zerosize=code.desktop;
+text/plain=code.desktop;
+application/xml=code.desktop;
+
+[Default Applications]
+application/x-zerosize=code.desktop
+text/plain=code.desktop
+text/x-lua=code.desktop
+x-scheme-handler/discord=vesktop.desktop
