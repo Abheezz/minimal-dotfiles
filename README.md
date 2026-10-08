@@ -67,7 +67,7 @@ arch-hyprland-dotfiles/
 
 ### 1. Clone or Copy the Repository
 ```bash
-git clone <your-repo-url> ~/arch-hyprland-dotfiles
+https://github.com/Abheezz/minimal-dotfiles
 cd ~/arch-hyprland-dotfiles
 ```
 
