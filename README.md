@@ -161,12 +161,6 @@ Before overwriting any user configuration, the script checks for existing files:
 
 ---
 
-## 🎨 Excluded Dotfiles
-
-Per clean installation principles and your instructions, application caches and private application profiles from the original drive (such as `BraveSoftware`, `Code`, `vesktop`, `go`, and temporary `pulse/cookie`) are intentionally excluded so they do not pollute new installations.
-
----
-
 ## 💡 Troubleshooting
 
 - **Quickshell / Tide-Island**: Tide-Island communicates with Quickshell via IPC socket. Ensure both `quickshell` and `tide-island` are installed from AUR.
